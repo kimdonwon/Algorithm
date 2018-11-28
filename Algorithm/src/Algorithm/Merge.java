@@ -1,5 +1,12 @@
 package Algorithm;
-
+//합병 정렬
+//
+//시간 복잡도 n*logn 을 보장함
+//일단 반으로 쪼개고 나중에 합침
+//
+//1. 배열의 요소가 1개가 될 때까지 반으로 계속 쪼갬
+//2. 배열의 두 덩어리를 비교하고 합침
+//3. 반복
 public class Merge {
 	static int n = 8;
 	static int sorted[];
