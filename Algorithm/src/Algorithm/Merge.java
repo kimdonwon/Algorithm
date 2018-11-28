@@ -15,7 +15,7 @@ public class Merge {
 		
 		
 	}
-	
+	//
 	//m 시작점, middle 중간점, n 끝점
 	static void merge(int a[], int m,int middle, int n) {
 		//비교할 첫번째 배열에 첫번째 값
