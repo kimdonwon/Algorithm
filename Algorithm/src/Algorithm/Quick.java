@@ -18,7 +18,7 @@ package Algorithm;
 
 public class Quick {
 	static int n = 10;
-	static int data[] = {1,10,5,8,7,6,4,3,2,9};
+	static int data[] = {8,10,5,8,7,6,4,3,2,9};
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		quick(data,0,n-1);
