@@ -1,9 +1,9 @@
 # Algorithm
-##Sort
+#Sort
 - Quick
 - Insert
 - Heap
 - Merge
 
-##Graph
+#Graph
 - Dijkstra
